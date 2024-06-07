@@ -1,5 +1,5 @@
 {
-  "name": "astro10",
+  "name": "short-spectrum",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -10,6 +10,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.10.0"
+    "astro": "^4.9.3"
   }
 }
